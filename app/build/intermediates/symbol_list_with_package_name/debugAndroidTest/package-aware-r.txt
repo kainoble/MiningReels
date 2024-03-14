@@ -1,0 +1,3 @@
+dev.kb.mgd.newslot.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

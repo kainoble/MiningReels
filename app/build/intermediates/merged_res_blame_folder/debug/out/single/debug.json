@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_coins.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\coins.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_settngs.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\settngs.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_control.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\control.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\raw_tone_spin.mp3.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\raw\\tone_spin.mp3"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_toggle_btn_on.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\toggle_btn_on.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_score.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\score.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_activity_webview.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_prizes.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\prizes.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_strawberry.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\strawberry.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_toggle_btn_off.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\toggle_btn_off.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_max.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\max.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_box_gold.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\box_gold.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_chips.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\chips.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\anim_animation.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\anim\\animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_backgg.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\backgg.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\font_almendra_sc.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\font\\almendra_sc.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_sword.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\sword.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\raw_win.mp3.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\raw\\win.mp3"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_activity_global_web_layout.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\activity_global_web_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\raw_button_tone.mp3.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\raw\\button_tone.mp3"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_right_arrow.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_gold_coin.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\gold_coin.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_grape.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\grape.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_exit.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_activity_pop_message.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\activity_pop_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\raw_background_sound.mp3.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\raw\\background_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_slot_item.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\slot_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_prices.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\prices.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_balb.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\balb.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_cherry.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\cherry.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_min.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\min.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_bell.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_activity_gameview.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\activity_gameview.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_coin.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\coin.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_activity_html5.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\activity_html5.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_activity_framelayout.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\activity_framelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_bomb.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\bomb.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_eight.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\eight.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_online.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\online.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_diamond.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\diamond.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_img.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_activity_bet_translation.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\activity_bet_translation.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\font_acme.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\font\\acme.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_mechanics.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\mechanics.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_ofline.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\ofline.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_gold.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\gold.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_spin_btn.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\spin_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_acitivity_slot_machine.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\acitivity_slot_machine.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\drawable_frame.png.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\drawable\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-merged_res-33:\\layout_won.xml.flat",
+        "source": "C:\\Users\\fila\\.gradle\\daemon\\8.2.1\\dev.kb.mgd.newslot.app-main-35:\\layout\\won.xml"
+    }
+]

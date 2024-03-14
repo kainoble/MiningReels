@@ -1,0 +1,36 @@
+dev.kb.mgd.newslot.app-jetified-core-ktx-1.9.0-0 C:\Users\fila\.gradle\caches\transforms-3\0075616af5ec138f3227260a643aa313\transformed\jetified-core-ktx-1.9.0\res
+dev.kb.mgd.newslot.app-jetified-play-services-base-18.3.0-1 C:\Users\fila\.gradle\caches\transforms-3\17ac6f6ae0bd2aad7122b0b3b6723171\transformed\jetified-play-services-base-18.3.0\res
+dev.kb.mgd.newslot.app-jetified-annotation-experimental-1.3.0-2 C:\Users\fila\.gradle\caches\transforms-3\1822d56233532d5dd294d007810c690a\transformed\jetified-annotation-experimental-1.3.0\res
+dev.kb.mgd.newslot.app-lifecycle-livedata-core-2.6.1-3 C:\Users\fila\.gradle\caches\transforms-3\20297342383d0abe879b3e0e81661497\transformed\lifecycle-livedata-core-2.6.1\res
+dev.kb.mgd.newslot.app-fragment-1.3.6-4 C:\Users\fila\.gradle\caches\transforms-3\24a2cbe532209d55b3c9b7c577091320\transformed\fragment-1.3.6\res
+dev.kb.mgd.newslot.app-jetified-viewpager2-1.0.0-5 C:\Users\fila\.gradle\caches\transforms-3\3b276943c1074f6e583cb6da8d3ccbd6\transformed\jetified-viewpager2-1.0.0\res
+dev.kb.mgd.newslot.app-jetified-lifecycle-process-2.6.1-6 C:\Users\fila\.gradle\caches\transforms-3\4fbeaa1b2a35a171cb6ffa4fe8ca9383\transformed\jetified-lifecycle-process-2.6.1\res
+dev.kb.mgd.newslot.app-jetified-emoji2-1.2.0-7 C:\Users\fila\.gradle\caches\transforms-3\65801e7685372cca8ff918165af94d41\transformed\jetified-emoji2-1.2.0\res
+dev.kb.mgd.newslot.app-jetified-play-services-basement-18.3.0-8 C:\Users\fila\.gradle\caches\transforms-3\695e458c36ec62c1f0b5b77df280ac82\transformed\jetified-play-services-basement-18.3.0\res
+dev.kb.mgd.newslot.app-transition-1.2.0-9 C:\Users\fila\.gradle\caches\transforms-3\77408299a47296367a0ed087aa9e4590\transformed\transition-1.2.0\res
+dev.kb.mgd.newslot.app-core-runtime-2.2.0-10 C:\Users\fila\.gradle\caches\transforms-3\7f21f59688ca11eabc2a40ed5d2ddfc3\transformed\core-runtime-2.2.0\res
+dev.kb.mgd.newslot.app-jetified-activity-1.8.0-11 C:\Users\fila\.gradle\caches\transforms-3\8b976da21eede573690c16d011be085c\transformed\jetified-activity-1.8.0\res
+dev.kb.mgd.newslot.app-coordinatorlayout-1.1.0-12 C:\Users\fila\.gradle\caches\transforms-3\8e1eac7d4fc1d99bd6992764fd768883\transformed\coordinatorlayout-1.1.0\res
+dev.kb.mgd.newslot.app-jetified-emoji2-views-helper-1.2.0-13 C:\Users\fila\.gradle\caches\transforms-3\9027ce44f613d33cbdd06654657dcffe\transformed\jetified-emoji2-views-helper-1.2.0\res
+dev.kb.mgd.newslot.app-drawerlayout-1.1.1-14 C:\Users\fila\.gradle\caches\transforms-3\953e01311e8c302715b1c998fad0b910\transformed\drawerlayout-1.1.1\res
+dev.kb.mgd.newslot.app-recyclerview-1.1.0-15 C:\Users\fila\.gradle\caches\transforms-3\969de948c2a544514f2376416451fd64\transformed\recyclerview-1.1.0\res
+dev.kb.mgd.newslot.app-constraintlayout-2.1.4-16 C:\Users\fila\.gradle\caches\transforms-3\9b00da4e6194f3b0740a451ff3567fe8\transformed\constraintlayout-2.1.4\res
+dev.kb.mgd.newslot.app-jetified-appcompat-resources-1.6.1-17 C:\Users\fila\.gradle\caches\transforms-3\9e59b2ae466266026471ab7a3d2ff86f\transformed\jetified-appcompat-resources-1.6.1\res
+dev.kb.mgd.newslot.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-18 C:\Users\fila\.gradle\caches\transforms-3\9fa5632b6bfa161098d908a144caff44\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+dev.kb.mgd.newslot.app-jetified-savedstate-1.2.1-19 C:\Users\fila\.gradle\caches\transforms-3\a715195117f777a3df19d0278751caae\transformed\jetified-savedstate-1.2.1\res
+dev.kb.mgd.newslot.app-lifecycle-livedata-2.6.1-20 C:\Users\fila\.gradle\caches\transforms-3\b3eaadf0006cacf9b71344e4a7c514a2\transformed\lifecycle-livedata-2.6.1\res
+dev.kb.mgd.newslot.app-appcompat-1.6.1-21 C:\Users\fila\.gradle\caches\transforms-3\c0c72430c03b3ebd09df48b5a2c78e1d\transformed\appcompat-1.6.1\res
+dev.kb.mgd.newslot.app-material-1.11.0-22 C:\Users\fila\.gradle\caches\transforms-3\d463089d2df4c001e1b0f4e5e10538b3\transformed\material-1.11.0\res
+dev.kb.mgd.newslot.app-lifecycle-viewmodel-2.6.1-23 C:\Users\fila\.gradle\caches\transforms-3\dba02dd687aa8ea5cdb20ded0bed3bd4\transformed\lifecycle-viewmodel-2.6.1\res
+dev.kb.mgd.newslot.app-cardview-1.0.0-24 C:\Users\fila\.gradle\caches\transforms-3\dd89bd6568e9c9565102b9acacd6782d\transformed\cardview-1.0.0\res
+dev.kb.mgd.newslot.app-lifecycle-runtime-2.6.1-25 C:\Users\fila\.gradle\caches\transforms-3\e29f1ed33b62b96aeb83a74f35ebe101\transformed\lifecycle-runtime-2.6.1\res
+dev.kb.mgd.newslot.app-jetified-startup-runtime-1.1.1-26 C:\Users\fila\.gradle\caches\transforms-3\e66c619362571819d02240aa490e91d8\transformed\jetified-startup-runtime-1.1.1\res
+dev.kb.mgd.newslot.app-jetified-profileinstaller-1.3.0-27 C:\Users\fila\.gradle\caches\transforms-3\f112f237ae5e42b55df7cddab6b99917\transformed\jetified-profileinstaller-1.3.0\res
+dev.kb.mgd.newslot.app-core-1.9.0-28 C:\Users\fila\.gradle\caches\transforms-3\fac7d77f12ff6727501375fb480d9fbc\transformed\core-1.9.0\res
+dev.kb.mgd.newslot.app-pngs-29 D:\Business App\Triple Eight Fortune Reels\app\build\generated\res\pngs\debug
+dev.kb.mgd.newslot.app-resValues-30 D:\Business App\Triple Eight Fortune Reels\app\build\generated\res\resValues\debug
+dev.kb.mgd.newslot.app-packageDebugResources-31 D:\Business App\Triple Eight Fortune Reels\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+dev.kb.mgd.newslot.app-packageDebugResources-32 D:\Business App\Triple Eight Fortune Reels\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+dev.kb.mgd.newslot.app-merged_res-33 D:\Business App\Triple Eight Fortune Reels\app\build\intermediates\merged_res\debug
+dev.kb.mgd.newslot.app-debug-34 D:\Business App\Triple Eight Fortune Reels\app\src\debug\res
+dev.kb.mgd.newslot.app-main-35 D:\Business App\Triple Eight Fortune Reels\app\src\main\res
